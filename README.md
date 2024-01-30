@@ -1,4 +1,4 @@
-### Olá1 Eu sou a Jéssica
+### Olá! Eu sou a Jéssica
 
 - 🔭 Iniciante em programação
 - 🌱 Estudando Front-end
