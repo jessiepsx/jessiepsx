@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jéssica
 
 - 🔭 Iniciante em programação
-- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessiepsx&show_icons=true&theme=dark)
 <div> 
  
