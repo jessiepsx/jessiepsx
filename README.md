@@ -11,4 +11,10 @@
 <a href="https://www.linkedin.com/in/jéssica-pereira-bb1202265" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+Ferramentas e Tecnologias
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
+
 ![snake gif](https://github.com/jessiepsx/cobrinhadajess/blob/output/github-user-contribution.svg)
