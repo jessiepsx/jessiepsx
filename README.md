@@ -15,7 +15,5 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
             
-        
-
-![snake gif](https://github.com/jessiepsx/cobrinhadajess/blob/output/github-user-contribution.svg)
+  
 ![Snake animation](https://github.com/jessiepsx/jessiepsx/blob/output/github-user-contribution.svg)
