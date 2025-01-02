@@ -27,6 +27,7 @@ Eu chamo Jéssica, tenho 18 anos e sou apaixonada por tecnologia. Tenho grande i
 <br>
 <br>
 <br>
+<br>
 
 ### 🤖 Estou Aprendendo
 
