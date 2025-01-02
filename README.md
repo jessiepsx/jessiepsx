@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jéssica Pereira
+# 👩🏽‍💻 Jéssica Pereira
 
 **`Iniciante em programação`**
 
