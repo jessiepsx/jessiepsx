@@ -67,4 +67,4 @@ Eu chamo Jéssica, tenho 18 anos e sou apaixonada por tecnologia. Tenho grande i
 <br>
 <br>
   
-![Snake animation](https://github.com/jessiepsx/jessiepsx/blob/output/github-user-contribution.svg)
+![Snake animation](https://github.com/jessiepsx/jessiepsx/blob/output/github-user-contributiondark.svg)
