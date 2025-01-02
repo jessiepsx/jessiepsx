@@ -37,7 +37,7 @@ Eu chamo Jéssica, tenho 18 anos e sou apaixonada por tecnologia. Tenho grande i
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -45,7 +45,7 @@ Eu chamo Jéssica, tenho 18 anos e sou apaixonada por tecnologia. Tenho grande i
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -53,7 +53,7 @@ Eu chamo Jéssica, tenho 18 anos e sou apaixonada por tecnologia. Tenho grande i
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -61,7 +61,7 @@ Eu chamo Jéssica, tenho 18 anos e sou apaixonada por tecnologia. Tenho grande i
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br>
