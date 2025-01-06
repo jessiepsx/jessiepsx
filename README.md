@@ -2,7 +2,7 @@
 
 **`Iniciante em programação`**
 
-Eu chamo Jéssica, tenho 18 anos e sou apaixonada por tecnologia. Tenho grande interesse em programação e Inteligência Artificial, e estou sempre em busca de aprender mais sobre inovações tecnológicas. Meu foco está em explorar áreas como aprendizado de máquina e aprimorar minhas habilidades técnicas para seguir uma carreira na área de IA.
+Eu chamo Jéssica, tenho 17 anos e sou apaixonada por tecnologia. Tenho grande interesse em programação e Inteligência Artificial, e estou sempre em busca de aprender mais sobre inovações tecnológicas. Meu foco está em explorar áreas como aprendizado de máquina e aprimorar minhas habilidades técnicas para seguir uma carreira na área de IA.
 
 <a href="https://instagram.com/jessiepsx" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jéssica-pereira-bb1202265" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
