@@ -23,8 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&labelColor=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-000000?style=for-the-badge&logo=microsoft-office&labelColor=000000)&nbsp;
-  
-<div align="center"> <br><p align="centre"><b>Visitantes</b></p> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jessiepsx}/count.svg"/></p> <br>
+
 
 <div align="center">
   <picture align="center">
